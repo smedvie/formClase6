@@ -1,21 +1,21 @@
-  form {
-  	width:100%; margin:0 auto;
-  	height:100%;
-    display: inline-block;
-    text-align: center;
+  body{
+  	background: #2585ae;
+  	margin: 8px;
     }
 
-input{
-  	width:30%;
-  	height: 60%;
-    }
-    
-textarea{
-  	width:30%;
-  	height: 60%;
+    form{
+  	width: 50%;
+  	margin-left: 25%;
     }
 
-  button{
-  	width:30%;
-  	height: 60%;
+    input{
+  	width: 100%;
+  	margin-top: 20px;
+  	height: 35px;
+  	font-size: 17px;
+  	padding-left: 11px;
+  	background-color: #daebfb;
+
     }
+
+  
