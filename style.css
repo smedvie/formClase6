@@ -1,0 +1,21 @@
+  form {
+  	width:100%; margin:0 auto;
+  	height:100%;
+    display: inline-block;
+    text-align: center;
+    }
+
+input{
+  	width:30%;
+  	height: 60%;
+    }
+    
+textarea{
+  	width:30%;
+  	height: 60%;
+    }
+
+  button{
+  	width:30%;
+  	height: 60%;
+    }
